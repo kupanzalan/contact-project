@@ -1,0 +1,8 @@
+/* Example fonts.css */
+@font-face {
+  font-family: 'MyFont';
+  src: url('/fonts/Lexend_Deca/LexendDeca-VariableFont_wght.tff') format('truetype');
+  /* Include additional font formats if necessary */
+  font-weight: normal;
+  font-style: normal;
+}
